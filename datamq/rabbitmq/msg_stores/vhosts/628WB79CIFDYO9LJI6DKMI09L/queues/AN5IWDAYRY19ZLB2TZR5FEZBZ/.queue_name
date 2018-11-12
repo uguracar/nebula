@@ -1,0 +1,2 @@
+VHOST: /
+QUEUE: review_task_queue

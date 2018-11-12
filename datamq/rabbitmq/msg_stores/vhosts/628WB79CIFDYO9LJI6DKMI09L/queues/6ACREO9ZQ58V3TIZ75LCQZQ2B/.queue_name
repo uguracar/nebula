@@ -1,0 +1,2 @@
+VHOST: /
+QUEUE: db_task_queue
